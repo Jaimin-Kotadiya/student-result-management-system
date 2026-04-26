@@ -1,8 +1,9 @@
 Student Result Management System
 
 Project Description:
-  This is a Python-based Student Result Management System developed using CSV file handling and Object-Oriented Programming (OOP).
-  The system helps in managing student records such as marks, grades, rankings, topper reports, failed students list, and report card generation.
+  This is a Python-based Student Result Management System developed using CSV file handling and Object-     Oriented Programming (OOP).
+  
+  The system helps in managing student records such as marks, grades, rankings, topper reports, failed      students list, and report card generation.
 
 Features:
   * Add Student Records
